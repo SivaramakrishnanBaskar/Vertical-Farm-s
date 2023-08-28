@@ -28,7 +28,7 @@ body{
 .top{
     display: flex;
     background-color: black;
-    height: 10px;
+    height: 100px;
     color: white;
 }
 
